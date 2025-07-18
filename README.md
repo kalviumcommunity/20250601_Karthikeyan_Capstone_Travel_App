@@ -68,4 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# 20250601_Karthikeyan_Capstone_Travel_App" 
+
+
+## Project Plan for 15 days ##
+| Day    | Task                                                  |
+| ------ | ----------------------------------------------------- |
+| Day 1  | Project setup, Figma wireframes(done ✅)              |
+| Day 2  | Finalize high-fidelity designs and logo(done ✅)      |
+| Day 3  | Setup React + Tailwind, create folder structure       |
+| Day 4  | Code homepage (header, hero, search, featured cities) |
+| Day 5  | Design Login + City Selection Page                    |
+| Day 6  | Add routing and basic state management                |
+| Day 7  | Build Tourist Spots page (per city)                   |
+| Day 8  | Create Booking Form page                              |
+| Day 9  | Build Payment page & confirmation page                |
+| Day 10 | Design Footer + polish UI                             |
+| Day 11 | Integrate local storage (simulate bookings)           |
+| Day 12 | Testing, bug fixes, final adjustments                 |
+| Day 13 | Write final README with features, screenshots         |
+| Day 14 | Record demo video and deploy on Netlify               |
+| Day 15 | Submit project and create PR with /review             |
+
